@@ -65,7 +65,7 @@ Junior Data Analyst with a foundation in Mathematics, Statistics, and Computer S
 | **[Sales & Operations Performance Analysis](https://github.com/Abdallahnashat/Sales-Operations-Performance-Analysis.git)** | 6-page dashboard covering $78.87M revenue, $24.7M profit, 3,796 orders; YoY/MoM time-intelligence, churn model on 701 customers | Power BI, DAX, Power Query |
 | **[Multi-Channel Marketing Performance Analysis](https://github.com/Abdallahnashat/Multi-Channel-Marketing-Performance-Analysis.git)** | £163K ad spend / 40K+ conversions across Facebook, Instagram, Pinterest; Pinterest flagged as highest-ROI channel (22.5x ROAS) | Excel, PivotTables |
 | **[Advanced SQL Analytics for Sales Intelligence](https://github.com/abbbbbdd)** | Star-schema queries, window functions, multi-layered CTEs, RFM-style KPIs (Recency, Lifespan, Tenure) | MS SQL Server |
-| **[Post-Filtering System](https://github.com/abbbbbdd)** | Text/image/video content filtering using YOLO, Naive Bayes, and OpenCV | Python, YOLO, OpenCV |
+| **[Post-Filtering System]([https://github.com/abbbbbdd](https://github.com/Abdallahnashat/sql-data-analytics-project.git))** | Text/image/video content filtering using YOLO, Naive Bayes, and OpenCV | Python, YOLO, OpenCV |
 
 > Replace the placeholder links above with the actual repo URLs once you push each project.
 
